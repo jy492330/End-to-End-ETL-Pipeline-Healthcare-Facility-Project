@@ -106,5 +106,4 @@ This section supports bi-directional sync by extracting parameter values from Re
 
 Jin Yang (Jin Jessica Yang)  
 https://jinjessicayang.com 
-https://superb-cucurucho-9279aa.netlify.app
 LinkedIn: [@jin-y-30756051](https://www.linkedin.com/in/jin-y-30756051)
