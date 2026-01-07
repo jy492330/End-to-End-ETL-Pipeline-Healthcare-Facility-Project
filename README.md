@@ -104,6 +104,6 @@ This section supports bi-directional sync by extracting parameter values from Re
 
 ## --- Author ---
 
-Jin Yang (Jin Jessica Yang) \
+Jin Yang (Jin Jessica Yang) sp sp
 https://jinjessicayang.com \
 LinkedIn: [@jin-y-30756051](https://www.linkedin.com/in/jin-y-30756051)
