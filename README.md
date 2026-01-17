@@ -41,6 +41,8 @@ Contains scripts and tools to:
 
 ### `Forward ETL (SQL Server to BIM)`
 
+![Sutter & CTC ETL Diagram](https://github.com/jy492330/End-to-End-ETL-Pipeline-Healthcare-Facility-Project/blob/main/Diagrams/Sutter%20%26%20CTC%20ETL%20Diagram.png)
+
 This section generates Excel outputs for each medical center (ROOM_ALB, ROOM_HER, etc.) from SQL Server tables using `pyodbc` and `Pandas`, then loads these into BIM using `BIMLink` or `pyRevit`.
 
 **Key components:**
