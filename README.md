@@ -9,6 +9,7 @@ Bidirectional data flow solution:
 - **Forward ETL** (SQL Server → Excel → Revit), and
 - **Backward ETL** (Revit → Excel → SQL Server).
 
+![ETL Pipeline](https://github.com/jy492330/End-to-End-ETL-Pipeline-Healthcare-Facility-Project/blob/main/Diagrams/Full%20End-to-End%20ETL%20Workflow.png)
 
 **This ETL framework was purpose-built to outperform traditional SSIS/SSRS-based workflows by leveraging a modern, Python-centric architecture combined with Prefect for fully headless automation, scheduling, deployment and observability.** Unlike SSIS, which is constrained by GUI-based configuration and Microsoft-specific tooling, this solution offers greater flexibility, extensibility, and cloud readiness. It supports seamless bidirectional data integration across MS Access, SQL Server, Excel, and Autodesk Revit (via pyRevit and BIMLink), with robust logging, error handling, version control, and audit readiness. This modern stack enabled agile deployment, modular reuse, and superior control over data flow logic, making it a strategic upgrade for enterprise facility data management.
 
